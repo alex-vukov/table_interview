@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "pcs": 10
+  },
+  {
+    "id": 11,
+    "name": "Docking Station",
+    "pcs": 5
+  },
+  {
+    "id": 10,
+    "name": "Headset",
+    "pcs": 2
+  },
+  {
+    "id": 3,
+    "name": "Keyboard",
+    "pcs": 1
+  },
+  {
+    "id": 50,
+    "name": "Mouse",
+    "pcs": 3
+  }
+]
